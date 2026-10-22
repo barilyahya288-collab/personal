@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Baril — Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 2993,
+      "bodyTextHash": "1d721643950ba8cee0f99b068c503164720b18de7d81adbf71c4796e65930b9d",
+      "bodyTextPrefix": "Baril PORTFOLIO LOADING PORTFOLIO. Home About Experience Contact",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Baril — Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 2962,
+      "bodyTextHash": "52b48e8ddae0ba636846d1577e40673e3c142ec6c5e92db77c20944e796e9139",
+      "bodyTextPrefix": "Baril PORTFOLIO LOADING PORTFOLIO. Hi, I'm Baril Frontend Develo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
